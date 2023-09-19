@@ -130,7 +130,7 @@ Even if the equation in Exercise 1 does compile, you may need to download MikTex
 ### Exercise 2
 
 Create a code chunk and assign the value 5 to `x` and the value 3 to `y`. 
-Then print `x*y`.
+Then print `x * y`.
 
 ::: {.callout-tip icon="false"}
 ## Solution
