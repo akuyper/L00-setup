@@ -1,5 +1,5 @@
 # L00-setup ----
-# Stat 301-1, Fall 2024
+# Stat 301-1, Fall 2025
 
 # load packages ----
 

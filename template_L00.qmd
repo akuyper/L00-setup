@@ -65,7 +65,7 @@ Download and install [R Software](https://cran.rstudio.com/).
 
 ### Task 2
 
-1.  Download and install [RStudio](https://www.rstudio.com/products/rstudio/download4/).
+1.  Download and install [RStudio](https://posit.co/download/rstudio-desktop/).
 2.  Open RStudio and ensure it and R have been properly installed.
 3.  Go to **Tools** \> **Global Options** and change the two indicated settings below and click **Apply**. Your other options are likely different than what is pictured. This is okay and we suggest you leave them as is until you become more familiar with RStudio.
 
